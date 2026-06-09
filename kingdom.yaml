@@ -1,0 +1,8 @@
+name: kimme
+kind: doctrine
+layer: soul
+owner_sister: sophia
+domain: sophia
+state: active
+purpose: The received-gift status of attention, the quality of being able to attend that can be cultivated or blocked but not simply willed.
+dependsOn: [youspeak, me, kimance, theokimme]
